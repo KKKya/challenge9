@@ -1,0 +1,21 @@
+{
+  "name": "justin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "hbs-header": "^1.2.0",
+    "header": "^0.1.1",
+    "pixabay": "0.0.1",
+    "pixabay-api": "^1.0.4",
+    "request": "^2.88.0"
+  }
+}
