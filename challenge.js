@@ -83,7 +83,7 @@ app.get('/404', (request, response)=>{
         error: 'Page not found'
     })
 })
-
+/*
 app.listen(8080, () => {
     console.log('Server is up on the port 8080');
     request({
@@ -132,3 +132,4 @@ app.listen(8080, () => {
     });
     image = 'https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593327_1280.jpg'
 });
+*/
