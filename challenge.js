@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const port = process.env.PORT || 8080;
 
-///
+/// some random update message
 
 const hbs = require('hbs');
 var key = '10624132-9decbc4310605f0a746386ac8';
